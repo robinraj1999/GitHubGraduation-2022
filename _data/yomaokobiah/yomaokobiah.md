@@ -1,6 +1,6 @@
 ---
-name: Ogheneyoma Okobiah
-institution: Nile University of Nigeria
-quote: Determination is a burning desire for success.
-github_user: yomaokobiah
+name: Robin Raj Jamjogli
+institution: Christ University
+quote: Everything you want is on the other side of fear
+github_user: robinraj1999
 ---
